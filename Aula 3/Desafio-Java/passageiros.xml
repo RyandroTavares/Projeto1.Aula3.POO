@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<passageiros>
+    <passageiro>
+        <nome>Lucas Oliveira</nome>
+        <idade>28 anos</idade>
+        <numeroDoTicket>T12345</numeroDoTicket>
+        <origem>São Paulo</origem>
+        <destino>Cusco, Peru</destino>
+    </passageiro>
+    <passageiro>
+        <nome>Sofia Mendes</nome>
+        <idade>28 anos</idade>
+        <numeroDoTicket>T1234455</numeroDoTicket>
+        <origem>São Paulo</origem>
+        <destino>Kyoto</destino>
+    </passageiro>
+    <passageiro>
+        <nome>Alex Johnsoon</nome>
+        <idade>42 anos</idade>
+        <numeroDoTicket>T1234517415</numeroDoTicket>
+        <origem>São Bento</origem>
+        <destino>Hong kong</destino>
+    </passageiro>
+    <passageiro>
+        <nome>Mia Chen</nome>
+        <idade>28 anos</idade>
+        <numeroDoTicket>T12345588</numeroDoTicket>
+        <origem>Australia</origem>
+        <destino>Irlanda</destino>
+    </passageiro>
+    <passageiro>
+        <nome>Rafaela Santos</nome>
+        <idade>30 anos</idade>
+        <numeroDoTicket>T12345456</numeroDoTicket>
+        <origem>Rio de Janeiro</origem>
+        <destino>João Pessoa</destino>
+    </passageiro>
+</passageiros>
